@@ -12,7 +12,7 @@ A SwiftUI experiment featuring a draggable circle that snaps to a grid of dots w
 
 ## Features I Implemented
 
-- **Grid with Snap Points**: 11x11 grid of dots where a draggable circle snaps to positions with spring animation
+- **Grid with Snap Points**: Grid of dots where a draggable circle snaps to positions with spring animation
 - **Proximity Glow Effect**: Distance-based visual effect that makes nearby dots scale up (up to 6x) and glow white while dragging
 - **Drag Anywhere Interaction**: The entire container responds to touch, not just the circle itself, making it easier to move the circle around
 
