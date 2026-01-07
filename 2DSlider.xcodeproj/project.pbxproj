@@ -35,16 +35,6 @@
 			path = 2DSlider;
 			sourceTree = "<group>";
 		};
-		D438C74F2EDD11830060B4D9 /* StylesTest1Tests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = StylesTest1Tests;
-			sourceTree = "<group>";
-		};
-		D438C7592EDD11830060B4D9 /* StylesTest1UITests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = StylesTest1UITests;
-			sourceTree = "<group>";
-		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,8 +66,6 @@
 			isa = PBXGroup;
 			children = (
 				D438C7412EDD11810060B4D9 /* 2DSlider */,
-				D438C74F2EDD11830060B4D9 /* StylesTest1Tests */,
-				D438C7592EDD11830060B4D9 /* StylesTest1UITests */,
 				D438C7402EDD11810060B4D9 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -130,9 +118,6 @@
 			dependencies = (
 				D438C74E2EDD11830060B4D9 /* PBXTargetDependency */,
 			);
-			fileSystemSynchronizedGroups = (
-				D438C74F2EDD11830060B4D9 /* StylesTest1Tests */,
-			);
 			name = 2DSliderTests;
 			packageProductDependencies = (
 			);
@@ -152,9 +137,6 @@
 			);
 			dependencies = (
 				D438C7582EDD11830060B4D9 /* PBXTargetDependency */,
-			);
-			fileSystemSynchronizedGroups = (
-				D438C7592EDD11830060B4D9 /* StylesTest1UITests */,
 			);
 			name = 2DSliderUITests;
 			packageProductDependencies = (
