@@ -35,7 +35,7 @@ struct GridConfiguration {
 	func dotSize(gridSpacingX: CGFloat) -> CGFloat {
 		gridSpacingX * 0.15
 	}
-g
+
 	func circleSize(gridSpacingX: CGFloat) -> CGFloat {
 		gridSpacingX * 0.85
 	}
